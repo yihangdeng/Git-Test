@@ -13,5 +13,8 @@ public class HelloGit {
         System.out.println("hot-fix - 02fffff");
 
         System.out.println("remote push test");
+        
+        System.out.println("remote pull test");
+
     }
 }
